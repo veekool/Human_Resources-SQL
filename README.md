@@ -2,7 +2,7 @@
 
 View original link [here](https://d-i-motion.com/lessons/kedeishas-banking-services/) by Kedeisha Bryan.
 
-![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/0044021e-59aa-4579-beb0-4b675dd8815d)
+![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/10121a84-b37b-4e24-808b-c55c76151be6)
 
 <details><summary>Creating databases and Tables:</summary>
 
@@ -84,7 +84,7 @@ SQL interactive playground >> [View on DB Fiddle](https://www.db-fiddle.com/f/xc
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/ea4fc615-6a2c-4ced-83ba-f88ba3043a92)
+  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/cc120f61-231b-4829-ba98-253cbf6ef0a7)
 
 </details>
 
@@ -102,7 +102,7 @@ SQL interactive playground >> [View on DB Fiddle](https://www.db-fiddle.com/f/xc
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/bcf129c5-21ce-4865-b89f-062973e16868)
+  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/559d099b-d4ca-4625-8e56-66670f6477a7)
 
 </details>
 
@@ -122,7 +122,7 @@ SQL interactive playground >> [View on DB Fiddle](https://www.db-fiddle.com/f/xc
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/8f793bb2-9acd-40f2-b3a0-2ab403e8e7e0)
+  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/678e1399-c553-4bb6-bd1e-a827a326006f)
 
 </details>
 
@@ -140,7 +140,7 @@ SQL interactive playground >> [View on DB Fiddle](https://www.db-fiddle.com/f/xc
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/c00be492-999e-4e3b-98c6-d8b0b2baf38b)
+  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/18359816-bd58-40f1-8771-6cb88fa48f53)
 
 </details>
 
@@ -160,7 +160,7 @@ SQL interactive playground >> [View on DB Fiddle](https://www.db-fiddle.com/f/xc
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/d549f72f-f0a6-46c9-afdf-374b5ea9d827)
+  ![image](https://github.com/veekool/Human_Resources-SQL/assets/114795923/3c3e9e7c-7ee9-4fb2-9b69-93615579750b)
 
 </details>
 
